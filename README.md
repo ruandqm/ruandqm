@@ -1,6 +1,5 @@
 - 👋 Hello! My name's Ruan de Queiroz
-- 😁 I’m 17 years old
-- 🌱 I'm currently studying Front-End web development at Flit Education
+- 😁 I’m 18 years old
 - 👨‍🎓 I'm a software engineering academic at International University Center UNINTER
 - 📫 I currently live in the city of Aratuba, Ceará - Brazil.
 - 📢 Contact me: ruandqm@gmail.com
