@@ -1,5 +1,5 @@
 - 👋 Hello! My name's Ruan de Queiroz
-- 😁 I’m 19 years old
+- 😁 I’m 20 years old
 - 👨‍🎓 I'm a software engineering academic at International University Center UNINTER
 - 📫 I currently live in the city of Aratuba, Ceará - Brazil.
 - 📢 Contact me: ruandqm@gmail.com
